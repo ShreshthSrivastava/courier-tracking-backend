@@ -1,0 +1,15 @@
+# Ignore Database
+*.db
+*.sqlite3
+
+# Ignore Virtual Environments
+venv/
+.venv/
+env/
+
+# Ignore Python Cache
+__pycache__/
+*.pyc
+
+# Ignore PyCharm settings
+.idea/
